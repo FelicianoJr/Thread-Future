@@ -1,0 +1,16 @@
+
+f
+java:S2147&"DCombine this catch with the one at line 36, which has the same body.(åşŒóùÿÿÿÿ8èÂÌÓ¬.
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8èÂÌÓ¬.
+E
+java:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èÂÌÓ¬.
+L
+java:S3740"/Provide the parametrized type for this generic.(úÚ±ù8ÍˆÌÓ¬.
+E
+java:S1148'"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èÂÌÓ¬.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ÇÍüüÿÿÿÿ8èÂÌÓ¬.
+E
+java:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8èÂÌÓ¬.
+c
+java:S2142$"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8èÂÌÓ¬.
